@@ -8,3 +8,6 @@
 // docker exec -it container_id ---- ejecuta una session interactiva en el contenedor
 // docker stop container_id ---- para detener el contenedor
 // docker run -d container_id ---- para ejecutar un contenedor en background
+
+
+// una ver tengamos la ima
